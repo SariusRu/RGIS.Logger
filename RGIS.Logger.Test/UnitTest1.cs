@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using RGIS.Logger;
 
 namespace RGIS.Logger.Test;
 [TestClass]
