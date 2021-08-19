@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace RGIS.Logger;
+namespace RGIS.Logging;
 public static class Logger
 {
     public static bool Enabled { get; set; } = true;

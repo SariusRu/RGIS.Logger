@@ -1,7 +1,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using RGIS.Logger;
+using RGIS.Logging;
 
-namespace RGIS.Logger.Test;
+namespace RGIS.Logging.Test;
 [TestClass]
 public class LoggerTest
 {
